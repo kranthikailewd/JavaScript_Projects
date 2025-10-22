@@ -23,4 +23,5 @@ function to_blue() {
 function to_magenta() {
     container_id.style.backgroundColor = "#bb6bd9";
     color_mention.textContent = "#bb6bd9";
-}v
+}
+
