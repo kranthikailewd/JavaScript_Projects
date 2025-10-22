@@ -103,7 +103,7 @@ If you like these projects or want to suggest new ones 💡 —
 ⭐ **Star this repo** and share your feedback!  
 
 Let’s connect:  
-🔗 [Portfolio](https://kranthikaile-portfolio.netlify.app/) | 💼 [LinkedIn](www.linkedin.com/in/kranthi-kaile) | 🐙 [GitHub](https://github.com/kranthikailewd)
+🔗 [Portfolio](https://kranthikaile-portfolio.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/kranthi-kaile/) | 🐙 [GitHub](https://github.com/kranthikailewd)
 
 ---
 
