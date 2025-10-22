@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    background-color: #86d2f2;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.button_group {
+    width: 62px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+}
+
+button {
+    height: 34px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    background-color: #1f1d41;
+    font-size: 14px;
+}
+
+.traffic_light_group {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px 20px;
+    border-radius: 30px;
+    background-color: #1f1d41;
+}
+
+.traffic_light_group div {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: #4b5069;
+    border: none;
+}
+
+.button_sign_group {
+    justify-content: center;
+    gap: 20px;
+}
