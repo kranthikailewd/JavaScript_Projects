@@ -46,8 +46,7 @@ Click below to open any project live 🔗👇
 | 32 | **Random_Color_Generator** | [View Project](https://kranthikailewd.github.io/JavaScript_Projects/Random_Color_Generator) |
 | 33 | **Random_Joke_Page** | [View Project](https://kranthikailewd.github.io/JavaScript_Projects/Random_Joke_Page) |
 | 34 | **Recipe_Page** | [View Project](https://kranthikailewd.github.io/JavaScript_Projects/Recipe_Page) |
-| 35 | **Remove_Item_in
-Local_Storage_Practice** | [View Project](https://kranthikailewd.github.io/JavaScript_Projects/Remove_Item_in_Local_Storage_Practice) |
+| 35 | **Remove_Item_in_Local_Storage_Practice** | [View Project](https://kranthikailewd.github.io/JavaScript_Projects/Remove_Item_in_Local_Storage_Practice) |
 | 36 | **Seasons_Switcher** | [View Project](https://kranthikailewd.github.io/JavaScript_Projects/Seasons_Switcher) |
 | 37 | **Select_your_Pet** | [View Project](https://kranthikailewd.github.io/JavaScript_Projects/Select_your_Pet) |
 | 38 | **Sizing_an_Image** | [View Project](https://kranthikailewd.github.io/JavaScript_Projects/Sizing_an_Image) |
